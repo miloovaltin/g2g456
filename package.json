@@ -1,16 +1,16 @@
 {
-"name": "g2g456",
-"theme": "g2g456",
-"version": "6.6.5",
-"description": "g2g456 สมัครเว็บไซต์สล็อตเว็บตรง ระบบออโต้ แจกเงินเครดิตฟรี",
-"keywords": [
-"g2g456",
-"g2g456 เครดิตฟรี",
-"g2g456 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/g2g456",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "g2g456",
+  "theme": "g2g456",
+  "version": "6.7.0",
+  "description": "g2g456 สมัครเว็บไซต์สล็อตเว็บตรง ระบบออโต้ แจกเงินเครดิตฟรี",
+  "keywords": [
+    "g2g456",
+    "g2g456 เครดิตฟรี",
+    "g2g456 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/g2g456",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
